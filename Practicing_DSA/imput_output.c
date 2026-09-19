@@ -14,7 +14,7 @@ int main() {
     scanf("%d %f %c %s", &age, &height, &grade, name);
 
     // Displaying the results 
-    printf("\n--- Results ---\n");
+  
     printf("Your age: %d \n", age);
     printf("Your height: %.2f \n", height);
     printf("Your grade: %c \n", grade);
