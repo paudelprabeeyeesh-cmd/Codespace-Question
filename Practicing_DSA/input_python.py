@@ -1,0 +1,1 @@
+age, height, grade, name = input("Enter your name"  )
